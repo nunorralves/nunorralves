@@ -1,16 +1,16 @@
-### Hi there 👋
+### Nuno Alves
+[![Twitter Badge](https://img.shields.io/badge/-Nuno-Alves?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nunorralves)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Nuno-Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nralves//)](https://www.linkedin.com/in/ishagupta20/) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**nunorralves/nunorralves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Telecommunications Engineer, Full Stack Software Developer and currently working as an Engineering Manager.
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Nuno Alves](https://github.com/nunorralves)
+
