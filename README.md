@@ -7,12 +7,15 @@
 
 I'm an Electronics and Telecommunications Engineer, Full Stack Software Developer, Engineering Manager who is passionate about writing code, solving problems, experimenting new technolodgies, building software and overall... keep learning every day!
 
+<br/>
+
 <a href="https://github.com/nunorralves">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact&hide_border=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
 </a>
 
 <br/>
+
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
