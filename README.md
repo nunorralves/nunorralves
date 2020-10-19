@@ -9,10 +9,8 @@ I'm an Electronics and Telecommunications Engineer, Full Stack Software Develope
 
 <br/>
 
-<a href="https://github.com/nunorralves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true">
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
-</a>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true">
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
 
 <br/>
 
