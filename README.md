@@ -9,6 +9,7 @@ I'm an Electronics and Telecommunications Engineer, Full Stack Software Develope
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact")
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
