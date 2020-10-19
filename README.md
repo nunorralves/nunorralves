@@ -11,7 +11,7 @@ I'm an Electronics and Telecommunications Engineer, Full Stack Software Develope
 
 <a href="https://github.com/nunorralves">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
 </a>
 
 <br/>
