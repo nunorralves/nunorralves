@@ -9,17 +9,8 @@ I'm an Electronics and Telecommunications Engineer, Full Stack Software Develope
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunorralves&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunorralves&theme=buefy&layout=compact" />
 
 <br/>
 
