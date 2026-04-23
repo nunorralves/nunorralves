@@ -5,7 +5,13 @@
 
 ### About
 
-I'm an Electronics and Telecommunications Engineer, Full Stack Software Developer, Engineering Manager who is passionate about writing code, solving problems, experimenting new technolodgies, building software and overall... keep learning every day!
+I’m an Electronics and Telecommunications Engineer, Full Stack Developer, and Engineering Director.
+
+I like building well-structured, reliable software and digging into the kind of problems that don’t have obvious answers. Most of my work has been around platform and infrastructure — systems that need to scale, but also stay simple enough to evolve.
+
+On the leadership side, I’ve spent years helping teams make better technical decisions and build software that lasts. Here on GitHub, you’ll mostly find the hands-on side of that: experiments, side projects, and ideas I wanted to explore.
+
+Always building. Always learning.
 
 
 <br/>
