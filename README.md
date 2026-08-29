@@ -1,7 +1,7 @@
 ### Nuno Alves
 
 [![Website](https://img.shields.io/badge/-nunorralves.pt-000000?style=flat-square&logo=nextdotjs&logoColor=white&v=4)](https://www.nunorralves.pt)
-[![LinkedIn](https://img.shields.io/badge/-Nuno_Alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white&v=4)](https://www.linkedin.com/in/nralves/)
+[![LinkedIn](https://img.shields.io/badge/-Nuno_Alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white&v=99)](https://www.linkedin.com/in/nralves/)
 [![Twitter](https://img.shields.io/badge/-Nuno_Alves-000000?style=flat-square&logo=x&logoColor=white&v=4)](https://x.com/nunorralves)
 
 ### About
